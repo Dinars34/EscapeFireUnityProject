@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "ComputerGraphics(Clone1).slnx"
+    "dotnet.defaultSolution": "ComputerGraphics(Clone3).slnx"
 }
